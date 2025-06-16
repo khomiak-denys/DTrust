@@ -1,0 +1,27 @@
+{
+  "name": "dtrust",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khomiak-denys/DTrust.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/khomiak-denys/DTrust/issues"
+  },
+  "homepage": "https://github.com/khomiak-denys/DTrust#readme",
+  "dependencies": {
+    "hardhat": "^2.24.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
